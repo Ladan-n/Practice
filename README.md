@@ -11,11 +11,13 @@ Things to-do 1-2-3-4:
 [ ] Deleted a slide
 [ ] Deleted a table
 
+[ ] added another slide
+
 NEW LINE
 
 editing the presentation
 
 
 NEWLINE while others working 
-
+NEWLINE while others working # 3
 NEWLINE while others working # 2
