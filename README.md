@@ -10,3 +10,6 @@ Things to-do 1-2-3-4:
 
 editing the presentation
 
+
+NEWLINE while others working 
+
