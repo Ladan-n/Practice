@@ -2,10 +2,11 @@
 Practicing concepts
 
 
-Things to-do:
+Things to-do 1-2:
 
 [ ] prepare the presentation
 [ ] prepare the poster
- yulia added this!
+[ ] added an image
 
 editing the presentation
+
